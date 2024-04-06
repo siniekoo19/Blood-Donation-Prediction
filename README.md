@@ -1,7 +1,8 @@
 # Blood-Donation-Prediction
 ![logo](https://github.com/siniekoo19/Blood-Donation-Prediction/assets/144519238/34ab80d6-f5ab-474b-8b95-5b4ca8559c16)
 
-This Machine Learning project is devoted to accurately predicting sales tailored for the Black Friday event. Its primary methodology revolves around the implementation of Linear Regression (LR), which has demonstrated superior performance compared to other models in terms of accuracy. Achieving a commendable accuracy score of 78%, LR serves as the cornerstone of this forecasting system. Moreover, the project integrates the utilization of the AutoML library EvalML to conduct extensive model evaluation, thereby augmenting the selection process for optimal predictive performance.
+This Machine Learning project is dedicated to accurately predicting blood donation rates. Its primary methodology centers on the application of Linear Regression (LR), which has exhibited superior performance compared to alternative models in terms of accuracy. Achieving an impressive accuracy score of 78%, LR serves as the foundation of this forecasting system. Furthermore, the project incorporates the utilization of the AutoML library EvalML to conduct thorough model evaluations, thereby enhancing the selection process for optimal predictive performance.
+
 
 ## Python Libraries
 - Pandas
